@@ -1,0 +1,14 @@
+com\goal\beans\Appraisal.class
+com\goal\beans\OrganisationGoal.class
+com\goal\controllers\MainController.class
+com\goal\beans\Goal.class
+com\goal\beans\Zrecord.class
+com\goal\beans\Yrecord.class
+com\goal\dao\AppraiselDAO.class
+com\goal\beans\IndividualProjectGoal.class
+com\goal\beans\UtilizationGoal.class
+com\goal\dao\GoalDAO.class
+com\goal\beans\Section.class
+com\goal\beans\GeneralGoal.class
+com\goal\beans\InfluencerProjectGoal.class
+com\goal\dao\GoalDAO$1.class
